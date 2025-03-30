@@ -1,16 +1,51 @@
-# cipherx
 
-A new Flutter project.
+---
 
-## Getting Started
+# **CipherX - Expense Tracker**
 
-This project is a starting point for a Flutter application.
+A **Flutter-based Personal Expense Tracker** with **Google Authentication**, local storage using **SQFlite**, and real-time syncing with **Firebase Firestore**.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 **Features**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ✅ **Expense Tracking**
+- Add **income and expenses** with categories like food, travel, and shopping.
+- Swipe to **delete expenses** effortlessly.
+- View **income vs expenses summary** with interactive charts.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔐 **Google Authentication**
+- Sign up / log in using **Google**.
+- Stores user data securely in **Firebase Firestore**.
+- **Auto-login** if the session is not terminated.
+- **Logout** functionality.
+
+### 💾 **Local Storage (SQFlite)**
+- All data is stored and fetched from a **local database** for offline support.
+
+### 🎯 **Bonus Features**
+- **Budgeting System** to help users track spending limits.
+
+## 🛠 **Tech Stack**
+- **Flutter** (Dart)
+- **Firebase Authentication & Firestore**
+- **SQFlite (Local Database)**
+- **Provider (State Management)**
+
+## 📱 **Installation**
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/NITRR-Vivek/CipherSchools-Flutter-Assignment.git
+   cd CipherSchools-Flutter-Assignment
+   ```  
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```  
+3. Run the app:
+   ```sh
+   flutter run
+   ```  
+
+## 🔗 **Live Demo & APK**
+- [APK Download](#) (https://github.com/NITRR-Vivek/CipherSchools-Flutter-Assignment/blob/main/app-release.apk)
+
+---
