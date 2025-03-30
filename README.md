@@ -24,7 +24,7 @@ A **Flutter-based Personal Expense Tracker** with **Google Authentication**, loc
 ### 🎯 **Bonus Features**  
 - **Budgeting System** to track spending limits and analysis.
 
-## 📸 **Screenshots**  
+## 📸 **Screenshots and Presentation Video**  
 
 | Home Screen | Add Expense | Expense List |  
 |------------|------------|--------------|  
@@ -33,6 +33,8 @@ A **Flutter-based Personal Expense Tracker** with **Google Authentication**, loc
 | Summary | Login | Profile |  
 |----------------|------------|----------|  
 | ![](screenshots/8.jpg) | ![](screenshots/3.jpg) | ![](screenshots/11.jpg) |  
+
+[Presentation Video](https://github.com/user-attachments/assets/3562233c-05bc-4798-a9cd-963d6935c03e)
 
 ## 🛠 **Tech Stack**  
 - **Flutter (Dart)**  
