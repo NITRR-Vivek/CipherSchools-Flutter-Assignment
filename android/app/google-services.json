@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "802880354659",
+    "project_id": "cipherx-1",
+    "storage_bucket": "cipherx-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802880354659:android:fe9d09e453cd106ea83b56",
+        "android_client_info": {
+          "package_name": "com.cipherschools.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802880354659-eg16nlsrgiddqfgc9l92t78j6cbn47dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cipherschools.assignment",
+            "certificate_hash": "302118dbff3e476c0615b61736c8c69d688ceb02"
+          }
+        },
+        {
+          "client_id": "802880354659-vnbi8eg34ojchk9mtjalke5apn5lvuac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBicDTB_a5WzcqZAliw4e5_fidYEednx90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802880354659-vnbi8eg34ojchk9mtjalke5apn5lvuac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802880354659-iq7q3hb9l5n6c1a5ibvfvaj7iu7d6kt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cipherschools.assignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
